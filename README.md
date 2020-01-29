@@ -1,5 +1,4 @@
-# Emoji Conversion
-## Convert image file names from unicode to Slack short hand.
+# Convert image file names from unicode to Slack short hand.
 
 ## Instructions
 * Put all the images you want to map inside the `sourceImages` folder.
