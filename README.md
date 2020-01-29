@@ -1,4 +1,4 @@
-#Emoji Conversion
+# Emoji Conversion
 ## Convert image file names from unicode to Slack short hand.
 
 ## Instructions
